@@ -1,0 +1,4 @@
+string=input("")
+print(string.rep(first character, replacement, no. of times))
+
+#rough draft maybe it cannot work
